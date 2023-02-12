@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "app-005-expo-expense-tracker",
+    "scheme": "myapp",
     "slug": "app-005-expo-expense-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sandee007.app005expoexpensetracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
