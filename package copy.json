@@ -1,7 +1,6 @@
 {
-  "name": "@sandeepa007-npm-org/create-template-react-native-expo-navigation-redux-toolkit-persist",
-  "version": "1.0.2",
-  "bin": "./bin/cli.js",
+  "name": "app-005-expo-expense-tracker",
+  "version": "1.0.0",
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
@@ -19,7 +18,6 @@
     "expo-linking": "~3.3.0",
     "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "~1.4.2",
-    "npm-cli-login": "^1.0.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
@@ -34,5 +32,6 @@
     "@types/react": "~18.0.14",
     "@types/react-native": "~0.70.6",
     "typescript": "^4.6.3"
-  }
+  },
+  "private": true
 }
